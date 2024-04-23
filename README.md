@@ -1,73 +1,34 @@
+# GameJamHug
 
+## Sobre o Jogo
 
-<p align="center">
+GameJamHug é um jogo de defesa da natureza onde você controla o Curupira em sua missão para proteger a floresta dos garimpeiros ilegais que querem destruir tudo em seu caminho. Use suas habilidades especiais para deter os invasores e reparar os danos causados pela ganância humana.
 
-</p>
+## Instalação
 
-<br>
+Para instalar o jogo, siga estas etapas:
 
-# Nome do projeto
+1. Baixe o arquivo executável do jogo da seção de lançamentos do repositório [GitHub](https://github.com/MurilloYonamine/GameJamHug/releases).
+2. Execute o arquivo executável e siga as instruções de instalação.
+3. Após a instalação, execute o jogo a partir do atalho criado em seu desktop ou menu de programas.
 
-## Nome do grupo
+## Controles
 
-## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 1</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 3</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 4</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 5</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 6</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 7</a>
+- Use as teclas de seta ou WASD para mover o personagem.
+- Pressione a barra de espaço e botão esquerdo do mouse para atacar.
+- Replante as arvores com o botão direito do mouse e a tecla G.
 
-## 👩‍🏫 Professores:
-### Orientador(a) 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 1</a>
-### Instrutores
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 3</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 4</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 5</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 6</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 7</a>
+## Contribuição
 
-## 📜 Descrição
+Este jogo foi desenvolvido por Murillo Gomes, Akira Carolina, João Pedro Ribeiro Vivas e Felipe Souza.
 
-*Descreva seu projeto (até 600 palavras)*
+## Créditos
 
-*Inclua o link para o jogo aqui*
+- Desenvolvido por [Murillo Gomes].
+- Arte por [Akira Carolina] e [Felipe Souza].
+- Música por [João Pedro Ribeiro Vivas].
+- Efeitos sonoros por [João Pedro Ribeiro].
 
+## Visite o Itch.io
 
-## 📁 Estrutura de pastas
-
-Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
-
-- <b>assets</b>: aqui estão os arquivos relacionados a elementos não-estruturados deste repositório, como imagens.
-
-- <b>document</b>: aqui estão todos os documentos do projeto, como o Game Development Document (GDD) bem como documentos complementares, na pasta "other".
-
-- <b>src</b>: Todo o código fonte criado para o desenvolvimento do projeto do jogo.
-
-- <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto e o jogo (o mesmo que você está lendo agora).
-
-## 🔧 Como executar o código
-
-*Acrescentar as informações necessárias sobre pré-requisitos (IDEs, serviços etc.) e instalação básica do projeto, descrevendo eventuais versões utilizadas. Colocar um passo a passo de como o leitor pode baixar o código e executar o jogo a partir de sua máquina ou seu repositório.*
-
-
-## 🗃 Histórico de lançamentos
-
-* 0.5.0 - XX/XX/2024
-    * 
-* 0.4.0 - XX/XX/2024
-    * 
-* 0.3.0 - XX/XX/2024
-    * 
-* 0.2.0 - XX/XX/2024
-    * 
-* 0.1.0 - XX/XX/2024
-    *
-
-## 📋 Licença/License
-
-
-
+[Itch.io](https://murilloyonamine.itch.io/the-protector-of-otherside-foot).
