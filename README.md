@@ -6,9 +6,9 @@ GameJamHug é um jogo de defesa da natureza onde você controla o Curupira em su
 
 ## Instalação
 
-Para instalar o jogo, siga estas etapas:
+Para instalar o jogo de forma facilidade, siga estas etapas:
 
-1. Baixe o arquivo executável do jogo da seção de lançamentos do repositório [GitHub](https://github.com/MurilloYonamine/GameJamHug/releases).
+1. Baixe o arquivo executável do jogo no itch.io: [Itch.io](https://murilloyonamine.itch.io/the-protector-of-otherside-foot).
 2. Execute o arquivo executável e siga as instruções de instalação.
 3. Após a instalação, execute o jogo a partir do atalho criado em seu desktop ou menu de programas.
 
