@@ -1,8 +1,8 @@
-# GameJamHug
+# The Protector of Otherside Foot
 
 ## Sobre o Jogo
 
-GameJamHug é um jogo de defesa da natureza onde você controla o Curupira em sua missão para proteger a floresta dos garimpeiros ilegais que querem destruir tudo em seu caminho. Use suas habilidades especiais para deter os invasores e reparar os danos causados pela ganância humana.
+The Protector of Otherside Foot é um jogo de defesa da natureza onde você controla o Curupira em sua missão para proteger a floresta dos garimpeiros ilegais que querem destruir tudo em seu caminho. Use suas habilidades especiais para deter os invasores e reparar os danos causados pela ganância humana.
 
 ## Instalação
 
